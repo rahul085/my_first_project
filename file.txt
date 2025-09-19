@@ -1,2 +1,6 @@
 Hello Iam Rahul!
+<<<<<<< Updated upstream
 I work at Eidiko Systems Integrators
+=======
+I am a java developer
+>>>>>>> Stashed changes
